@@ -1,6 +1,10 @@
 {
   "name": "markdev-app",
   "version": "0.0.0",
+  "engines": {
+    "node": "14.19.0"
+  },
+
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
