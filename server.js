@@ -1,6 +1,5 @@
 // import express
 const express = require('express');
-const express = require('express');
 // init express
 const app = express();
 // name folder dist to build
